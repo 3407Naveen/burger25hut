@@ -1,42 +1,59 @@
-# Simple Framework Landing Page
+# Simple Framework Landing Page with AI Chatbot Integration
 
-This is a clean and minimal landing page built using only **HTML** and **CSS**. It's designed as a lightweight framework to kick-start your web projects with a simple, responsive layout.
+This is a clean, minimal, and responsive landing page for **Burger25Hut**, built using **HTML** and **CSS**. It's designed to be a lightweight framework that gives your burger business a professional online presence—now supercharged with an **AI-powered chat assistant** to serve your customers 24/7.
 
-live demo:https://burger25hut.netlify.app/
-
-## Features
-
-- Responsive design for mobile and desktop
-- Minimal and semantic HTML5 structure
-- CSS Flexbox/Grid layout
-- Customizable color palette and typography
-- Easy to integrate with your backend or JS framework
-
-## Getting Started
-
-To use this landing page:
-
-1. Clone the repository:
-git clone https://github.com/yourusername/simple-framework-landing-page.git
-
-2.Open the project directory:cd simple-framework-landing-page
-3. Open `index.html` in your browser.
-
-## Folder Structure
-├── index.html ├── css/ │   └── style.css └── README.md
-
-
-## Customization
-
-You can easily edit the content and styles:
-- Update text and sections in `index.html`
-- Modify fonts, colors, and layout in `css/style.css`
-
-## License
-
-This project is licensed under the MIT License – feel free to use and modify it for personal or commercial purposes.
+**Live demo:** [https://burger25hut.netlify.app/](https://burger25hut.netlify.app/)
 
 ---
 
-Built with ❤️ using HTML and CSS.
+## 🍔 Features
+
+- Responsive design optimized for desktop and mobile
+- Semantic HTML5 structure with clean layout
+- CSS Flexbox/Grid for a modern look and feel
+- Easily customizable styles and color palette
+- **AI chatbot assistant** to interact with customers and answer queries
+- Simple to hook into your backend or any JS framework
+
+---
+
+## 🚀 Getting Started
+
+To use this landing page:
+
+```bash
+git clone https://github.com/yourusername/simple-framework-landing-page.git
+cd simple-framework-landing-page
+
+📁 Folder Structure
+simple-framework-landing-page/
+├── index.html
+├── css/
+│   └── style.css
+└── README.md
+
+✏️ Customization
+- Update your burger menu and page content in index.html
+- Modify fonts, colors, and layout in css/style.css
+- Enhance the embedded chatbot script for a more tailored experience
+
+🤖 AI Chatbot Setup
+This page comes integrated with a Chatbase-powered chatbot that helps customers:
+- Explore burger options, combos, and ingredients
+- Navigate the ordering process
+- Get instant answers to common support questions
+You’ll find the chatbot script at the bottom of index.html. You can customize behavior and appearance through the Chatbase dashboard.
+
+📝 License
+This project is licensed under the MIT License – free to use, modify, and distribute.
+
+Crafted with ❤️ for burger lovers. Happy hacking!
+
+Let me know if you want me to generate a cool badge section or dark mode preview too!
+
+
+
+
+
+
 
