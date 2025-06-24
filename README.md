@@ -1,6 +1,7 @@
 # Simple Framework Landing Page
 
 This is a clean and minimal landing page built using only **HTML** and **CSS**. It's designed as a lightweight framework to kick-start your web projects with a simple, responsive layout.
+
 live demo:https://frolicking-frangollo-efeecd.netlify.app/
 
 ## Features
