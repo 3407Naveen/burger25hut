@@ -51,6 +51,13 @@
       <span class="navbar-toggler-icon"></span>
     </button>
 
+    <script>
+(function(){if(!window.chatbase||window.chatbase("getState")!=="initialized"){window.chatbase=(...arguments)=>{if(!window.chatbase.q){window.chatbase.q=[]}window.chatbase.q.push(arguments)};window.chatbase=new Proxy(window.chatbase,{get(target,prop){if(prop==="q"){return target.q}return(...args)=>target(prop,...args)}})}const onLoad=function(){const script=document.createElement("script");script.src="https://www.chatbase.co/embed.min.js";script.id="dsct-T31OfUFAg1AVaXX1";script.domain="www.chatbase.co";document.body.appendChild(script)};if(document.readyState==="complete"){onLoad()}else{window.addEventListener("load",onLoad)}})();
+</script>
+      <div style="position: fixed; bottom: 24px; right: 24px; z-index: 9999;">
+  <iframe src="YOUR_CHATBASE_IFRAME_URL" width="350" height="500" style="border:none; border-radius:16px; box-shadow: 0 4px 16px rgba(0,0,0,0.2);"></iframe>
+</div>
+
     
     <div style="position: fixed; bottom: 24px; right: 24px; z-index: 9999;">
       <iframe
